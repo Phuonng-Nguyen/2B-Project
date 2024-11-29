@@ -9,9 +9,9 @@ Lam Hoang Xuan Yen
 
 ## Introduction
 Our project focuses on designing a syringe pump for medical applications. The device is intended to deliver precise volumes of fluids at controlled rates, which is crucial in treatments such as IV therapy and medication infusion. Key features include:
-- *Adjustable flow rates* for various medical needs.
-- *User-friendly interface* for medical professionals.
-- *Compact design* for portability.
+- Adjustable flow rates for various medical needs.
+- User-friendly interface for medical professionals.
+- Compact design for portability.
 
 ## Flow Chart
 The operational workflow of the syringe pump is depicted below:
@@ -19,15 +19,9 @@ The operational workflow of the syringe pump is depicted below:
 
 ## Block Diagram
 The system's core components and interactions are outlined here:
-![block Diagram]()
+![block Diagram](block diagram.png)
 
 
 ## State Diagram
 The various operational states of the syringe pump are illustrated as follows:
-![State Diagram](path-to-your-statediagram-image)
-
-## Repository
-This repository contains:
-- *Design documentation*
-- *Code for system control*
-- *CAD files for the syringe pump design*
+![State Diagram](state diagram)
