@@ -1,8 +1,31 @@
-Project members: Mỹ Phương, Uyên Nhi, Nhật Thanh, Trúc Thắm, Xuân Yến
-Flowchart 
-![Flow chart](Flow chart.png).
+# Syringe Pump Design Project
 
+## Group Members
+1. Member 1 (Name/Role)
+2. Member 2 (Name/Role)
+3. Member 3 (Name/Role)
+4. Member 4 (Name/Role)
 
+## Introduction
+Our project focuses on designing a *syringe pump* for medical applications. The device is intended to deliver precise volumes of fluids at controlled rates, crucial in treatments such as IV therapy and medication infusion. Key features include:
+- *Adjustable flow rates* for various medical needs.
+- *User-friendly interface* for medical professionals.
+- *Compact design* for portability.
 
+## Flow Chart
+The operational workflow of the syringe pump is depicted below:
+![Flow Chart]()
 
-Block diagram ()
+## Block Diagram
+The system's core components and interactions are outlined here:
+![Block Diagram](path-to-your-blockdiagram-image)
+
+## State Diagram
+The various operational states of the syringe pump are illustrated as follows:
+![State Diagram](path-to-your-statediagram-image)
+
+## Repository
+This repository contains:
+- *Design documentation*
+- *Code for system control*
+- *CAD files for the syringe pump design*
